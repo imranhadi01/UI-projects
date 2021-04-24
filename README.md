@@ -1,3 +1,3 @@
 # UI-projects
 
-for beginnerss
+for beginners
