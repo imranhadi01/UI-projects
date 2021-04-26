@@ -1,3 +1,3 @@
 # UI-projects
 
-for beginner level 2 projects
+for beginner level 2 projects.
