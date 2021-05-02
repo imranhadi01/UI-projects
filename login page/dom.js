@@ -8,10 +8,6 @@ function funn(){
     for(var i = 0; i < 10; i++){
         para[i] 
     }
-
-
-
-
 }
 
 function coountdown(){
